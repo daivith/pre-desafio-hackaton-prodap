@@ -1,6 +1,8 @@
 # Pré desafio do Hackaton do Prodap
-   # O desafio
-   O desafio consiste em resolver 
-   # Resultados
+   ## Desafio
    
-   # Avisos dos selecionados
+   ## Entrega do desafio
+   Para submeter o desafio para comissão, você deve:
+      
+   ## Avisos dos selecionados
+   O selecionados deverão receber 
