@@ -23,7 +23,7 @@
    }
    ```
    ### PATCH - Atualizar pessoa
-   ``http://localhost:3000/{pessoa_id}``
+   ``http://localhost:3000/pessoas/{pessoa_id}``
    - A entrada deve ser algo como:
    ```
    {
@@ -33,7 +33,7 @@
    }
    ```
    ### DELETE - Deletar pessoa
-   ``http://localhost:3000/{pessoa_id}``
+   ``http://localhost:3000/pessoas/{pessoa_id}``
    - A saida deve ser algo como:
    ```
    {
