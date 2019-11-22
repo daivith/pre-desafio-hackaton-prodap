@@ -1,6 +1,6 @@
 # Pré desafio do Hackaton do Prodap
    ## Desafio
-   O desafio consiste em criar um crud de pessoas com as seguintes informações, utilizando uma das seguintes linguagens/frameworks: Javascript, PHP, Python, Adonis.js, Express.js, Laravel, Lumen, Flask ou Django.
+   O desafio consiste em criar um crud de pessoas com as informações abaixo, utilizando uma das seguintes linguagens/frameworks: Javascript, PHP, Python, Adonis.js, Express.js, Laravel, Lumen, Flask ou Django.
    ### GET - Listar pessoas:    
    ``http://localhost:3000/pessoas``
    ### POST - Cadastrar pessoas
