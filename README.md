@@ -22,8 +22,8 @@
       data_nascimento: 22/04/1990
    }
    ```
-   ### PUT - Atualizar pessoa
-   ``http://localhost:3000/pessoa_id``
+   ### PATCH - Atualizar pessoa
+   ``http://localhost:3000/{pessoa_id}``
    - A entrada deve ser algo como:
    ```
    {
@@ -33,7 +33,7 @@
    }
    ```
    ### DELETE - Deletar pessoa
-   ``http://localhost:3000/pessoa_id``
+   ``http://localhost:3000/{pessoa_id}``
    - A saida deve ser algo como:
    ```
    {
@@ -44,7 +44,7 @@
    ## Entrega do desafio
    Para submeter o desafio para comissão, você deve:
    * Se cadastrar no evento da expotec: https://expotecamapa.com.br/cadastro/
-   * Subir o codigo finalizado no próprio repositório do github (Deve estar público)
+   * Subir o codigo finalizado no próprio repositório do github **(Deve estar público)**
    * Submeter o link do desafio finalizado para o email: jose.barbosa@prodap.ap.gov.br
    ## Avisos dos selecionados
    O selecionados receberão um email informando que poderão comparecer a hackathon promovida pelo PRODAP. 
