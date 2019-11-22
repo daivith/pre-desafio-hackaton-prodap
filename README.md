@@ -1,7 +1,7 @@
 # Pré desafio do Hackaton do Prodap
    ## Desafio
    O desafio consiste em criar um crud para cadastro de pessoas com as seguintes informações:
-   ### GET - Listar usuários:    
+   ### GET - Listar pessoas:    
    ``http://localhost:3000/pessoas``
    ### POST - Cadastrar pessoas
    ``http://localhost:3000/pessoas``
