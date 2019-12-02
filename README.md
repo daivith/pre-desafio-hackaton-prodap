@@ -43,7 +43,7 @@
   #### OBS: A utilização de docker será um diferencial
    ## Entrega do desafio
    Para submeter o desafio para comissão, você deve:
-   * Se cadastrar no evento da expotec: https://www.even3.com.br/expotecamapa/
+   * Se cadastrar no link: https://forms.gle/gJXaMYsBsZCqitPN9
    * Criar um Readme.md com as informaçoes basicas para executar seu desafio 
    * Subir o codigo finalizado no próprio repositório do github **(Deve estar público)**
    * Submeter o link do desafio finalizado para o email: jose.barbosa@prodap.ap.gov.br
